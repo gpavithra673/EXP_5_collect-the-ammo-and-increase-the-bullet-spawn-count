@@ -60,8 +60,10 @@ the game, such as firing bullets or picking up ammo.
 ## OUTPUT:
 
 ### In Play Mode:
-![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/d9590640-c96d-4af1-bd34-5c13502d7a8d)
-
+### Before collection:
+![Screenshot (52)](https://github.com/gpavithra673/EXP_5_collect-the-ammo-and-increase-the-bullet-spawn-count/assets/93427264/d89ef69f-9c4e-47db-a9cf-9d9ea8d9d0ce)
+### After collection:
+![Screenshot (53)](https://github.com/gpavithra673/EXP_5_collect-the-ammo-and-increase-the-bullet-spawn-count/assets/93427264/1d68bf29-a1bd-4614-8fbf-9c2733858c38)
 
 ### Canvas:
 ![image](https://github.com/Aashima02/Ammo-Collection/assets/93427086/412ffcd2-2333-4542-8dce-1d2d45a5ff89)
